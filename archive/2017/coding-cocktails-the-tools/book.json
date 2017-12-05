@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        "sectionx",
+        "custom-favicon",
+        "hints"
+    ],
+    "pluginsConfig" : {
+        "favicon": "assets/favicon.ico"
+    }
+
+}

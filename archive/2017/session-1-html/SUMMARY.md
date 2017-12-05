@@ -1,0 +1,21 @@
+# Summary
+
+* [HTML](README.md)
+    * [Part 1: HTML Page Structure](project.md)
+    * [Part 2: Head Section](part_2_head_section.md)
+    * [Part 3: Headers & Page Sections](part_3_body_section_headers.md)
+    * [Part 4: Paragraphs](part_4_body_section_-_paragraphs.md)
+    * [Part 5: Inspecting the Page](part-5-inspecting-the-page.md)
+    * [Part 6: Images](part_5_body_section_-_images.md)
+    * [Part 7: Tables](part_6_body_section_-_tables.md)
+    * [Part 8: Forms](part_7_body_section_-_forms.md)
+    * [Part 9: Navigation & Footer](part_8_body_section_-_navigation_&_footer.md)
+    * [Part 10: Lists](part-10-lists.md)
+    * [Part 11: Anchors \(aka Links\)](part_8_body_section_-_anchors_aka_links.md)
+    * [Bonus: Styling](bonus-styling.md)
+* [HTML Cheat Sheet](html-cheat-sheet.md)
+* [Answer Key](answer-key.md)
+* [Homework](homework.md)
+    * [Troubleshooting](troubleshooting.md)
+    * [Bonus](homework-bonus.md)
+
